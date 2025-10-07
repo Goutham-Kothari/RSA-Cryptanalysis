@@ -1,4 +1,3 @@
-#RSA-Cryptanalysis
 ## 📄 README.md for the RSA Cryptanalysis Demonstration
 
 This is a demonstration application that implements a fundamental cryptanalytic attack against the **RSA (Rivest-Shamir-Adleman) public-key cryptosystem**, known as the **"small factorization attack."**
